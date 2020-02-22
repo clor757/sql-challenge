@@ -1,4 +1,4 @@
--- CREATE TABLES --
+--  CREATE TABLES  --
 CREATE TABLE departments (
 	dept_no VARCHAR(4),
 	dept_name VARCHAR,
