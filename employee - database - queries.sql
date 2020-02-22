@@ -1,5 +1,5 @@
 
---List the following details of each employee: employee number, last name, first name, gender, and salary.
+--List the following details of each employee: employee number, last name, first name, gender, and salary
 SELECT employees.emp_no as "Employee Number", 
 		employees.last_name as "Last Name", 
 		employees.first_name as "First Name", 
